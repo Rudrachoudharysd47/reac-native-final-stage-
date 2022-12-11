@@ -1,1 +1,2 @@
-# reac-native-final-stage-
+# Blog-App-Stage-2
+Blog app project
